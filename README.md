@@ -29,9 +29,9 @@ Modify angular.json so it looks like
 ```
 Modify src/app/app.component.ts and replace
 
-´´´
+```
     const api_key = 'API-KEY' // INSERT YOUR KEY HERE;
-´´´
+```
 
 With your api-key
 See the rest of the component for a quick demo of using our maptiles
